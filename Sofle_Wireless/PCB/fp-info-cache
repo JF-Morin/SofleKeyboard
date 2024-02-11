@@ -1,4 +1,4 @@
-24502046947413326
+24505465904586193
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62514,8 +62514,15 @@ NICE!VIEW
 
 
 0
+5
+5
+Mechanical_Switches
+RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html & http://cdn-reichelt.de/documents/datenblatt/F100/402097STEC12E08.PDF
+rotary encoder
 0
-0
+7
+6
 Mechanical_Switches
 SW_MXHS_CHOCV1V2HS_1.5U
 
@@ -62536,6 +62543,13 @@ SW_MXHS_CHOCV1V2HS_RGB
 
 0
 4
+2
+Mechanical_Switches
+SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+2
 2
 Module
 A20_OLINUXINO_LIME2
