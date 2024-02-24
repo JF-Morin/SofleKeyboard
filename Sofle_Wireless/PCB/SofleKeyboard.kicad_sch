@@ -4934,7 +4934,7 @@
     (property "Value" "SW_RST" (at 58.42 122.6058 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "kbd:ResetSW" (at 58.42 127 0)
+    (property "Footprint" "Mechanical_Switches:ResetSW_DualSide" (at 58.42 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 58.42 127 0)

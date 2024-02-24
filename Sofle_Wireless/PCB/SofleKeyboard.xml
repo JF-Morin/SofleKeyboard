@@ -1,0 +1,2270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\jfmor\Projects\SofleKeyboard\Sofle_Wireless\PCB\SofleKeyboard.kicad_sch</source>
+    <date>2024-02-23 12:35:28 AM</date>
+    <tool>Eeschema 7.0.9</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>SofleKeyboard.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b7226e7</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b722847</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b722950</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b722a8f</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b722bad</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b722fe1</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b723d94</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b723e5f</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b723fa1</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b7240ea</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b72424d</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b7243c0</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b7254ee</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b7255ff</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b72571c</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b725841</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b72596d</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b725aa2</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b72767a</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b7277ce</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b727929</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b727a89</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b727bfe</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b727d79</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b734844</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b7349d1</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b734b62</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b734cf9</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b734f9e</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>D</value>
+      <footprint>Mechanical_Switches:Diode_SOD-123(dual side)</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005d956fe1</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>LED_SK6812MINI</value>
+      <footprint>RGB_LED:SK6812_Mini-E_DualSide</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="RGB_LED" part="SK6812_Mini-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27c3b175-4870-4793-98ea-8a636af89870</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>LED_SK6812MINI</value>
+      <footprint>RGB_LED:SK6812_Mini-E_DualSide</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="RGB_LED" part="SK6812_Mini-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>292f9883-b264-421b-bdc0-15b91b10399c</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>LED_SK6812MINI</value>
+      <footprint>RGB_LED:SK6812_Mini-E_DualSide</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="RGB_LED" part="SK6812_Mini-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd0dd30c-7240-407a-a786-8ea42afb6609</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>LED_SK6812MINI</value>
+      <footprint>RGB_LED:SK6812_Mini-E_DualSide</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="RGB_LED" part="SK6812_Mini-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2120ce2a-cbc6-497c-ae94-7b74c7e10fee</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>LED_SK6812MINI</value>
+      <footprint>RGB_LED:SK6812_Mini-E_DualSide</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="RGB_LED" part="SK6812_Mini-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d2c6dc2-bbca-440e-965e-1143fcad4a03</tstamps>
+    </comp>
+    <comp ref="EC1">
+      <value>Rotary_Encoder_Switch</value>
+      <footprint>Mechanical_Switches:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Rotary_Encoder_Switch-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005da04574</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x05</value>
+      <footprint>Mechanical_Switches:NICE!VIEW</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>816703b6-87d9-4c85-922a-d2d055c61fe0</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02</value>
+      <footprint>Mechanical_Switches:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal_DualSide</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cfb4ec7-1690-4dd9-bcf7-3fd00d1f2783</tstamps>
+    </comp>
+    <comp ref="JP_ENC_LA1">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f122114-90f0-4afe-b894-7f3fe0cccd73</tstamps>
+    </comp>
+    <comp ref="JP_ENC_LB1">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d610b95-c4c3-4c9b-b14e-632ec43f4205</tstamps>
+    </comp>
+    <comp ref="JP_ENC_RA1">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7cf89389-1e3c-4fa7-9512-88c96f6b1a89</tstamps>
+    </comp>
+    <comp ref="JP_ENC_RB1">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>260d9edd-affe-4f89-9810-ce237be50691</tstamps>
+    </comp>
+    <comp ref="JP_E_L1">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b23c4dd6-1d44-45b3-b1e3-3258a90c1894</tstamps>
+    </comp>
+    <comp ref="JP_E_L2">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a300dfd-6d6e-4733-83ca-9e2cfe5a4fd8</tstamps>
+    </comp>
+    <comp ref="JP_E_L3">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c043aa7-6fd4-4cf2-ac52-988f88809482</tstamps>
+    </comp>
+    <comp ref="JP_E_L4">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ee20555-dbce-4167-9be0-dca2c8453fa1</tstamps>
+    </comp>
+    <comp ref="JP_E_L5">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd79e2e7-13c1-4bfb-b952-24f408d37220</tstamps>
+    </comp>
+    <comp ref="JP_E_L6">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d4de62d-4ad2-4c9b-a182-7188538aab76</tstamps>
+    </comp>
+    <comp ref="JP_E_L7">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d57756be-573f-4f50-9031-78520977f17f</tstamps>
+    </comp>
+    <comp ref="JP_E_L8">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>edb3adfc-a13d-48d0-abc3-520eab6c0cae</tstamps>
+    </comp>
+    <comp ref="JP_E_L9">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8e0d18e-d0c2-4df7-8d09-98c440f2b149</tstamps>
+    </comp>
+    <comp ref="JP_E_L10">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c58edad3-21cc-4882-ac9b-85fac5e5c787</tstamps>
+    </comp>
+    <comp ref="JP_E_L11">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56f66d8b-08b2-4688-86bf-b09497efe70d</tstamps>
+    </comp>
+    <comp ref="JP_E_L12">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56cd5949-35d9-47e0-8492-7034ddcc76c2</tstamps>
+    </comp>
+    <comp ref="JP_E_R1">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b911e74</tstamps>
+    </comp>
+    <comp ref="JP_E_R2">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1c13419-7a2b-47c3-8abd-83f5477e1b38</tstamps>
+    </comp>
+    <comp ref="JP_E_R3">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc024db2-0abe-4ca1-8e78-ec86f521b5b7</tstamps>
+    </comp>
+    <comp ref="JP_E_R4">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7abd0f88-7aa4-448b-b5ce-00674ee0bc4f</tstamps>
+    </comp>
+    <comp ref="JP_E_R5">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c6e477a-4da3-4472-a435-13106bda85c0</tstamps>
+    </comp>
+    <comp ref="JP_E_R6">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d37eded-9900-474b-838e-b27da88b194a</tstamps>
+    </comp>
+    <comp ref="JP_E_R7">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d851f1ba-ec2b-44a3-be2b-c6c6c7aacb8a</tstamps>
+    </comp>
+    <comp ref="JP_E_R8">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66560c8c-3765-4792-927d-017e9a9076d1</tstamps>
+    </comp>
+    <comp ref="JP_E_R9">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8427106-f229-4fd2-8294-29746cd6b378</tstamps>
+    </comp>
+    <comp ref="JP_E_R10">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25f0ae7f-cc74-4807-8de5-815b08d66a0a</tstamps>
+    </comp>
+    <comp ref="JP_E_R11">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f0a4a52-f542-4d5e-9646-b562a0ea0be0</tstamps>
+    </comp>
+    <comp ref="JP_E_R12">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a99d2c50-2694-4028-b632-2f1fd8c1ccf2</tstamps>
+    </comp>
+    <comp ref="JP_I_L1">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12b64f3e-bdad-4d63-bd43-0905e5eae1ff</tstamps>
+    </comp>
+    <comp ref="JP_I_L2">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>839c848c-4833-444f-a9ea-c394aeb2256f</tstamps>
+    </comp>
+    <comp ref="JP_I_L3">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16fcde87-b050-4001-811a-64aa486b77e0</tstamps>
+    </comp>
+    <comp ref="JP_I_L4">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d6bd6aa-d0d1-44ae-839b-30d7d8068821</tstamps>
+    </comp>
+    <comp ref="JP_I_L5">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc8f1698-1aa9-4f21-987e-fb3e03acfaf6</tstamps>
+    </comp>
+    <comp ref="JP_I_L6">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48df6997-1649-4757-a06c-426fc82932d1</tstamps>
+    </comp>
+    <comp ref="JP_I_L7">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b38d156-4151-469d-b31a-0ca1ca3eb46c</tstamps>
+    </comp>
+    <comp ref="JP_I_L8">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae3f33af-4190-4799-8183-621172af2ef3</tstamps>
+    </comp>
+    <comp ref="JP_I_L9">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46a776fb-2ebc-42c5-9980-77de764939be</tstamps>
+    </comp>
+    <comp ref="JP_I_L10">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>541f0c40-c70e-4d99-87e0-5b4baedcec1e</tstamps>
+    </comp>
+    <comp ref="JP_I_L11">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ed557f3-f46e-4d7c-ae2f-74716f58cbd5</tstamps>
+    </comp>
+    <comp ref="JP_I_L12">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61b07366-59d2-4b4a-b83b-eb1d5444a096</tstamps>
+    </comp>
+    <comp ref="JP_I_R1">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce05fc2b-0dd0-4805-84de-81dd9f84bef8</tstamps>
+    </comp>
+    <comp ref="JP_I_R2">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b33766a-f2e3-44ca-8b1f-1b29dee0e9c6</tstamps>
+    </comp>
+    <comp ref="JP_I_R3">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b28e7377-ef9c-4cfd-9a70-843d564065a0</tstamps>
+    </comp>
+    <comp ref="JP_I_R4">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d85625ef-af10-4945-a02b-aba7b5fc47d6</tstamps>
+    </comp>
+    <comp ref="JP_I_R5">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02c5fd49-4291-42f5-8252-032c68c99bcb</tstamps>
+    </comp>
+    <comp ref="JP_I_R6">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b817b52-5c84-4adc-84b6-bd12397b9a18</tstamps>
+    </comp>
+    <comp ref="JP_I_R7">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81ef003b-d40a-4afa-be01-c0a78550e001</tstamps>
+    </comp>
+    <comp ref="JP_I_R8">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>133d17d0-199f-4d6a-a812-8333508fff7f</tstamps>
+    </comp>
+    <comp ref="JP_I_R9">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09d05489-6130-448d-9486-ad4f774aa580</tstamps>
+    </comp>
+    <comp ref="JP_I_R10">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c30500f-c4c3-4644-a63c-8eb11d61f9ac</tstamps>
+    </comp>
+    <comp ref="JP_I_R11">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55716df4-bbd7-47d3-9d36-83f65522a18d</tstamps>
+    </comp>
+    <comp ref="JP_I_R12">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_I_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3e0c428-7506-4b16-a7df-368d96b5332e</tstamps>
+    </comp>
+    <comp ref="JP_LCD_L1">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32c09142-0ba6-44d6-a7d1-3d1fdc9fd421</tstamps>
+    </comp>
+    <comp ref="JP_LCD_L2">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>628d1367-d64d-4876-a3f4-250b9dbf868e</tstamps>
+    </comp>
+    <comp ref="JP_LCD_L4">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7811ddbb-7751-431e-afbc-7856fd2b7e62</tstamps>
+    </comp>
+    <comp ref="JP_LCD_L5">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f49c545f-7242-4ce9-ba84-ac7a6b23862d</tstamps>
+    </comp>
+    <comp ref="JP_LCD_R1">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a46d5cfb-de7e-4b8a-99dd-b539c7cd25b6</tstamps>
+    </comp>
+    <comp ref="JP_LCD_R2">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a9cbf9c-92f2-4e94-a0ce-9864de4dc2f8</tstamps>
+    </comp>
+    <comp ref="JP_LCD_R4">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf5d3ee6-156b-4cf2-b0bf-b3be5da2cb7e</tstamps>
+    </comp>
+    <comp ref="JP_LCD_R5">
+      <value>Jumper_NO_Small</value>
+      <footprint>Mechanical_Switches:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm_E_Reverse</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a653600-0dc2-45ce-8500-4879c529106a</tstamps>
+    </comp>
+    <comp ref="PWR_SW1">
+      <value>Switch</value>
+      <footprint>Mechanical_Switches:SLW-1276864-4A-D</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Switch" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12d25b00-98aa-478e-9bc8-18a685080fa5</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>R</value>
+      <footprint>Mechanical_Switches:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder_dualside</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="R-Lily58-cache-Lily58_Pro-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b739f4a</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>R</value>
+      <footprint>Mechanical_Switches:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder_dualside</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="R-Lily58-cache-Lily58_Pro-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b73a034</tstamps>
+    </comp>
+    <comp ref="RSW1">
+      <value>SW_RST</value>
+      <footprint>Mechanical_Switches:ResetSW_DualSide</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="SW_RST-Lily58-cache-Lily58_Pro-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b8ce7e7</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW1</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b7225da</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW2</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b7227cd</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW3</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b7228f7</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW4</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b722a11</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW5</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b722b51</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SW6</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b722ca9</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>SW7</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b723c9d</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>SW8</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b723388</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>SW9</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b723731</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>SW10</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b7237a6</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>SW11</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b72387d</tstamps>
+    </comp>
+    <comp ref="SW12">
+      <value>SW12</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b723ad3</tstamps>
+    </comp>
+    <comp ref="SW13">
+      <value>SW13</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b7250ad</tstamps>
+    </comp>
+    <comp ref="SW14">
+      <value>SW14</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b725133</tstamps>
+    </comp>
+    <comp ref="SW15">
+      <value>SW15</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b7251bf</tstamps>
+    </comp>
+    <comp ref="SW16">
+      <value>SW16</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b72524e</tstamps>
+    </comp>
+    <comp ref="SW17">
+      <value>SW17</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b7252f1</tstamps>
+    </comp>
+    <comp ref="SW18">
+      <value>SW18</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b725398</tstamps>
+    </comp>
+    <comp ref="SW19">
+      <value>SW19</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b727312</tstamps>
+    </comp>
+    <comp ref="SW20">
+      <value>SW20</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b727256</tstamps>
+    </comp>
+    <comp ref="SW21">
+      <value>SW21</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b726f89</tstamps>
+    </comp>
+    <comp ref="SW22">
+      <value>SW22</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b727035</tstamps>
+    </comp>
+    <comp ref="SW23">
+      <value>SW23</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b7270f6</tstamps>
+    </comp>
+    <comp ref="SW24">
+      <value>SW24</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b7271a5</tstamps>
+    </comp>
+    <comp ref="SW25">
+      <value>SW19</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1fc87a6-117e-4c12-8c5e-70c9174fd048</tstamps>
+    </comp>
+    <comp ref="SW26">
+      <value>SW26</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1.5U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b722582</tstamps>
+    </comp>
+    <comp ref="SW27">
+      <value>SW27</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b7293b0</tstamps>
+    </comp>
+    <comp ref="SW28">
+      <value>SW28</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b734347</tstamps>
+    </comp>
+    <comp ref="SW29">
+      <value>SW29</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b73449b</tstamps>
+    </comp>
+    <comp ref="SW30">
+      <value>SW30</value>
+      <footprint>Mechanical_Switches:SW_MXHS_CHOCV1V2HS_1U</footprint>
+      <libsource lib="ScottoKeebs" part="Placeholder_Keyswitch" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005d954f78</tstamps>
+    </comp>
+    <comp ref="TH1">
+      <value>HOLE</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="HOLE-Lily58-cache-Lily58_Pro-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b74da95</tstamps>
+    </comp>
+    <comp ref="TH2">
+      <value>HOLE</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="HOLE-Lily58-cache-Lily58_Pro-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b74d1c0</tstamps>
+    </comp>
+    <comp ref="TH3">
+      <value>HOLE</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="HOLE-Lily58-cache-Lily58_Pro-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b74d78b</tstamps>
+    </comp>
+    <comp ref="TH4">
+      <value>HOLE</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="HOLE-Lily58-cache-Lily58_Pro-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b74d88c</tstamps>
+    </comp>
+    <comp ref="TH5">
+      <value>HOLE</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="HOLE-Lily58-cache-Lily58_Pro-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b74d98f</tstamps>
+    </comp>
+    <comp ref="TH6">
+      <value>HOLE</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="SofleKeyboard-rescue" part="HOLE-Lily58-cache-Lily58_Pro-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38e70d45-54e5-4f7e-9323-ce9620ac873e</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>NICE!NANO</value>
+      <footprint>Mechanical_Switches:NICE!NANO</footprint>
+      <libsource lib="Mechanical_Switches" part="Nice!Nano_V2(dual_use_socket)" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SofleKeyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60f576f3-7dbd-4305-b4c1-f922f081816d</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x05">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical_Switches" part="Nice!Nano_V2(dual_use_socket)">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="EXT1" type="unspecified"/>
+        <pin num="2" name="EXT2" type="unspecified"/>
+        <pin num="3" name="EXT3" type="unspecified"/>
+        <pin num="4" name="EXT4" type="unspecified"/>
+        <pin num="5" name="EXT5" type="unspecified"/>
+        <pin num="6" name="EXT6" type="unspecified"/>
+        <pin num="7" name="EXT7" type="unspecified"/>
+        <pin num="8" name="EXT8" type="unspecified"/>
+        <pin num="9" name="EXT9" type="unspecified"/>
+        <pin num="10" name="EXT10" type="unspecified"/>
+        <pin num="11" name="EXT11" type="unspecified"/>
+        <pin num="12" name="EXT12" type="unspecified"/>
+        <pin num="13" name="INT12" type="unspecified"/>
+        <pin num="14" name="INT11" type="unspecified"/>
+        <pin num="15" name="INT10" type="unspecified"/>
+        <pin num="16" name="INT9" type="unspecified"/>
+        <pin num="17" name="INT8" type="unspecified"/>
+        <pin num="18" name="INT7" type="unspecified"/>
+        <pin num="19" name="INT6" type="unspecified"/>
+        <pin num="20" name="INT5" type="unspecified"/>
+        <pin num="21" name="INT4" type="unspecified"/>
+        <pin num="22" name="INT3" type="unspecified"/>
+        <pin num="23" name="INT2" type="unspecified"/>
+        <pin num="24" name="INT1" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="RGB_LED" part="SK6812_Mini-E">
+      <fields>
+        <field name="Reference">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="GND" type="power_out"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="ScottoKeebs" part="Placeholder_Diode">
+      <description>1N4148 (DO-35) or 1N4148W (SOD-123)</description>
+      <footprints>
+        <fp>D*DO?35*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">Diode</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ScottoKeebs" part="Placeholder_Keyswitch">
+      <description>Push button switch, normally open, two pins, 45° tilted</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">Keyswitch</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ScottoKeebs" part="Placeholder_Switch">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">Switch</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SofleKeyboard-rescue" part="HOLE-Lily58-cache-Lily58_Pro-rescue">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">HOLE-Lily58-cache-Lily58_Pro-rescue</field>
+      </fields>
+    </libpart>
+    <libpart lib="SofleKeyboard-rescue" part="Jumper_NO_Small-Device">
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_NO_Small-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SofleKeyboard-rescue" part="R-Lily58-cache-Lily58_Pro-rescue">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-Lily58-cache-Lily58_Pro-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SofleKeyboard-rescue" part="Rotary_Encoder_Switch-Device">
+      <footprints>
+        <fp>RotaryEncoder*Switch*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">Rotary_Encoder_Switch-Device</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="B" name="B" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+        <pin num="S1" name="S1" type="passive"/>
+        <pin num="S2" name="S2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SofleKeyboard-rescue" part="SW_RST-Lily58-cache-Lily58_Pro-rescue">
+      <fields>
+        <field name="Reference">RSW</field>
+        <field name="Value">SW_RST-Lily58-cache-Lily58_Pro-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical_Switches">
+      <uri>C:/Users/jfmor/Documents/KiCad/7.0/symbols/Mechanical_Switches.kicad_sym</uri>
+    </library>
+    <library logical="RGB_LED">
+      <uri>C:/Users/jfmor/Documents/KiCad/7.0/symbols/RGB_LED.kicad_sym</uri>
+    </library>
+    <library logical="ScottoKeebs">
+      <uri>C:\Users\jfmor\Documents\KiCad\7.0\ScottoKicad/symbols/ScottoKeebs.kicad_sym</uri>
+    </library>
+    <library logical="SofleKeyboard-rescue">
+      <uri>C:\Users\jfmor\Projects\SofleKeyboard\Sofle_Wireless\PCB/SofleKeyboard-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="BATT+">
+      <node ref="JP_E_R1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="PWR_SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="2" name="CS">
+      <node ref="JP_E_L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_LCD_L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_LCD_R5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="3" name="ENCA">
+      <node ref="JP_ENC_LB1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_ENC_RA1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_E_R5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_L5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="4" name="ENCB">
+      <node ref="JP_ENC_LA1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_ENC_RB1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_E_R6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_L6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="5" name="GND">
+      <node ref="D31" pin="3" pinfunction="GND" pintype="power_out"/>
+      <node ref="D32" pin="3" pinfunction="GND" pintype="power_out"/>
+      <node ref="D33" pin="3" pinfunction="GND" pintype="power_out"/>
+      <node ref="D34" pin="3" pinfunction="GND" pintype="power_out"/>
+      <node ref="D35" pin="3" pinfunction="GND" pintype="power_out"/>
+      <node ref="EC1" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="JP_E_L3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_E_L4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_E_R2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_I_R3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_I_R4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_LCD_L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_LCD_R4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RSW1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="6" name="LED">
+      <node ref="D31" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="JP_E_L2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D6-A)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D7-A)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D8-A)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D9-A)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D10-A)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW10" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D11-A)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW11" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D12-A)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW12" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D13-A)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW13" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D14-A)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW14" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D15-A)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW15" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D16-A)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW16" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D17-A)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW17" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D18-A)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW18" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D19-A)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW19" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D20-A)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW20" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D21-A)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW21" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D22-A)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW22" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D23-A)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW23" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D24-A)">
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW24" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D25-A)">
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="EC1" pin="S2" pinfunction="S2" pintype="passive"/>
+      <node ref="SW25" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D26-A)">
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW26" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D27-A)">
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW27" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D28-A)">
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW28" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D29-A)">
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW29" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D30-A)">
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW30" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D31-DOUT)">
+      <node ref="D31" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D32" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(D32-DOUT)">
+      <node ref="D32" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D33" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(D33-DOUT)">
+      <node ref="D33" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D34" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(D34-DOUT)">
+      <node ref="D34" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D35" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="41" name="Net-(EC1-PadA)">
+      <node ref="EC1" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="JP_ENC_LA1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_ENC_RA1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(EC1-PadB)">
+      <node ref="EC1" pin="B" pinfunction="B" pintype="passive"/>
+      <node ref="JP_ENC_LB1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_ENC_RB1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(J1-Pin_1)">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="JP_LCD_L2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_LCD_R1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(J1-Pin_2)">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="JP_LCD_L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_LCD_R2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(J1-Pin_4)">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="JP_LCD_L4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_LCD_R4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(J1-Pin_5)">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="JP_LCD_L5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_LCD_R5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(J2-Pin_1)">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="PWR_SW1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(U1-EXT1)">
+      <node ref="JP_E_L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_E_R1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="EXT1" pintype="unspecified"/>
+    </net>
+    <net code="49" name="Net-(U1-EXT2)">
+      <node ref="JP_E_L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_E_R2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="EXT2" pintype="unspecified"/>
+    </net>
+    <net code="50" name="Net-(U1-EXT3)">
+      <node ref="JP_E_L3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_E_R3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="EXT3" pintype="unspecified"/>
+    </net>
+    <net code="51" name="Net-(U1-EXT4)">
+      <node ref="JP_E_L4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_E_R4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="EXT4" pintype="unspecified"/>
+    </net>
+    <net code="52" name="Net-(U1-EXT5)">
+      <node ref="JP_E_L5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_E_R5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="EXT5" pintype="unspecified"/>
+    </net>
+    <net code="53" name="Net-(U1-EXT6)">
+      <node ref="JP_E_L6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_E_R6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="EXT6" pintype="unspecified"/>
+    </net>
+    <net code="54" name="Net-(U1-EXT7)">
+      <node ref="JP_E_L7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_E_R7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="EXT7" pintype="unspecified"/>
+    </net>
+    <net code="55" name="Net-(U1-EXT8)">
+      <node ref="JP_E_L8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_E_R8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="EXT8" pintype="unspecified"/>
+    </net>
+    <net code="56" name="Net-(U1-EXT9)">
+      <node ref="JP_E_L9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_E_R9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="EXT9" pintype="unspecified"/>
+    </net>
+    <net code="57" name="Net-(U1-EXT10)">
+      <node ref="JP_E_L10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_E_R10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="EXT10" pintype="unspecified"/>
+    </net>
+    <net code="58" name="Net-(U1-EXT11)">
+      <node ref="JP_E_L11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_E_R11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="EXT11" pintype="unspecified"/>
+    </net>
+    <net code="59" name="Net-(U1-EXT12)">
+      <node ref="JP_E_L12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_E_R12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="EXT12" pintype="unspecified"/>
+    </net>
+    <net code="60" name="Net-(U1-INT1)">
+      <node ref="JP_I_L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="INT1" pintype="unspecified"/>
+    </net>
+    <net code="61" name="Net-(U1-INT2)">
+      <node ref="JP_I_L2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="INT2" pintype="unspecified"/>
+    </net>
+    <net code="62" name="Net-(U1-INT3)">
+      <node ref="JP_I_L3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="INT3" pintype="unspecified"/>
+    </net>
+    <net code="63" name="Net-(U1-INT4)">
+      <node ref="JP_I_L4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="INT4" pintype="unspecified"/>
+    </net>
+    <net code="64" name="Net-(U1-INT5)">
+      <node ref="JP_I_L5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="INT5" pintype="unspecified"/>
+    </net>
+    <net code="65" name="Net-(U1-INT6)">
+      <node ref="JP_I_L6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="INT6" pintype="unspecified"/>
+    </net>
+    <net code="66" name="Net-(U1-INT7)">
+      <node ref="JP_I_L7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="INT7" pintype="unspecified"/>
+    </net>
+    <net code="67" name="Net-(U1-INT8)">
+      <node ref="JP_I_L8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="INT8" pintype="unspecified"/>
+    </net>
+    <net code="68" name="Net-(U1-INT9)">
+      <node ref="JP_I_L9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="INT9" pintype="unspecified"/>
+    </net>
+    <net code="69" name="Net-(U1-INT10)">
+      <node ref="JP_I_L10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="INT10" pintype="unspecified"/>
+    </net>
+    <net code="70" name="Net-(U1-INT11)">
+      <node ref="JP_I_L11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="INT11" pintype="unspecified"/>
+    </net>
+    <net code="71" name="Net-(U1-INT12)">
+      <node ref="JP_I_L12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="INT12" pintype="unspecified"/>
+    </net>
+    <net code="72" name="RESET">
+      <node ref="JP_E_R3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_L3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RSW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="73" name="SCL">
+      <node ref="JP_E_L6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_LCD_L4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_LCD_R2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="74" name="SDA">
+      <node ref="JP_E_L5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_LCD_L5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP_LCD_R1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="75" name="VCC">
+      <node ref="D31" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D32" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D33" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D34" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D35" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="JP_E_R4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_L4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="76" name="col0">
+      <node ref="JP_E_R7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_L7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW24" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW30" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="77" name="col1">
+      <node ref="JP_E_R8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_L8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW29" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="78" name="col2">
+      <node ref="JP_E_R9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_L9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW22" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW28" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="79" name="col3">
+      <node ref="JP_E_R10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_L10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW27" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="80" name="col4">
+      <node ref="JP_E_R11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_L11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW26" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="81" name="col5">
+      <node ref="EC1" pin="S1" pinfunction="S1" pintype="passive"/>
+      <node ref="JP_E_R12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_L12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="82" name="row0">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="JP_E_L8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="83" name="row1">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="JP_E_L9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="84" name="row2">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="JP_E_L10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R10" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="85" name="row3">
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="JP_E_L11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R11" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="86" name="row4">
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="JP_E_L12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP_I_R12" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="87" name="unconnected-(D35-DOUT-Pad2)">
+      <node ref="D35" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(JP_E_L7-Pad1)">
+      <node ref="JP_E_L7" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(JP_I_R7-Pad2)">
+      <node ref="JP_I_R7" pin="2" pinfunction="2" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
